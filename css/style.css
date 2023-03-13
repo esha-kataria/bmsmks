@@ -138,3 +138,42 @@ hr{
         margin: auto;
      }
 }
+
+
+/* about us */
+
+
+.aboutbg{
+    background-image: url(../images/aboutbg.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+/* founder */
+
+.text-drk{
+    color: #52575e !important;
+}
+
+/* oasis report */
+
+
+.customtable table tr:nth-child(even) {
+    background-color: skyblue !important;
+}
+
+.customoddtable table tr:nth-child(odd) {
+    background-color: skyblue !important;
+}
+.whitebg table tr:nth-child(even) {
+    background-color: white !important;
+}
+
+.bg{
+    background-color: skyblue !important;
+}
+
+.reporttable ul li{
+    color: #090c6d !important;
+}
