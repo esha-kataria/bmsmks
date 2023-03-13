@@ -97,3 +97,44 @@ ul li{
 hr{
     margin: 3px !important;
 }
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .row .logo .img1{
+    width: 50%;
+    margin: auto;
+}
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+.row .logo .img1{
+    width: 30%;
+    margin: auto;
+ }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .row .logo .img1{
+        width: 30%;
+        margin: auto;
+     }
+ }
+
+ /* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .row .logo .img1{
+        width: 30%;
+        margin: auto;
+     }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .row .logo .img1{
+        width: 30%;
+        margin: auto;
+     }
+}
